@@ -8,7 +8,13 @@ Additional details will be available after launching your challenge instance.
 * What tools do developers use when working on a website? Many text editors and browsers include formatting.
 
 ## Solucion:
+* http://titan.picoctf.net:55194
+* view-source:titan.picoctf.net:55194
+* picoCTF{pr3tty_c0d3_622b2c88}
 
 ## Notas:
+* entramos a la pagina
+* la inspeccionamos
+* nos da la bandera
 
 ## Referencias:
