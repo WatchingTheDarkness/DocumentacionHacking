@@ -1,0 +1,12 @@
+#  - Intro to Burp
+
+## Descripcion:
+* Additional details will be available after launching your challenge instance.
+* Try using burpsuite to intercept request to capture the flag.
+* Try mangling the request, maybe their server-side code doesn't handle malformed requests very well.
+
+## Solucion:
+
+## Notas:
+
+## Referencias:

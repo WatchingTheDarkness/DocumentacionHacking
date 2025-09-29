@@ -1,0 +1,14 @@
+# 1 - Bookmarklet
+
+## Descripcion:
+* Why search for the flag when I can make a bookmarklet to print it for me?
+Additional details will be available after launching your challenge instance.
+* A bookmarklet is a bookmark that runs JavaScript instead of loading a webpage.
+* What happens when you click a bookmarklet?
+* Web browsers have other ways to run JavaScript too.
+
+## Solucion:
+
+## Notas:
+
+## Referencias:
