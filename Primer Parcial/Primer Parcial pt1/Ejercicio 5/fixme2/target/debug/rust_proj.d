@@ -1,0 +1,1 @@
+/mnt/c/Users/watch/Downloads/NotasHacking/DocumentacionHacking/Primer\ Parcial/Primer\ Parcial\ pt1/Ejercicio\ 5/fixme2/target/debug/rust_proj: /mnt/c/Users/watch/Downloads/NotasHacking/DocumentacionHacking/Primer\ Parcial/Primer\ Parcial\ pt1/Ejercicio\ 5/fixme2/src/main.rs

@@ -6,6 +6,11 @@ Additional details will be available after launching your challenge instance.
 * What programs do you have access to?
 
 ## Solucion:
+* ssh -p 54497 ctf-player@saturn.picoctf.net
+* 8a707622
+* cd ala
+* echo $(<kazam.txt)
+* picoCTF{y0u_d0n7_4ppr3c1473_wh47_w3r3_d01ng_h3r3_49193632}
 
 ## Notas:
 
