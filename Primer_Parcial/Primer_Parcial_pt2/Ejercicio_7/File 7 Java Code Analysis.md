@@ -10,6 +10,14 @@ Additional details will be available after launching your challenge instance.
 * Upgrade your 'role' with the new (cracked) JWT. And re-login for the new role to get reflected in browser's localStorage.
 
 ## Solucion:
+* entramos a la pagina
+* ponemos control + shift + i
+* copeamos el archivo que vamos a modificar 
+* cambiamos Admin 2 admin
+* eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiQWRtaW4iLCJpc3MiOiJib29rc2hlbGYiLCJleHAiOjE3NjA1NjQwNDEsImlhdCI6MTc1OTk1OTI0MSwidXNlcklkIjoyLCJlbWFpbCI6ImFkbWluIn0.7Cd6f8ZKKK697zEFA5H6GiqppN61-3-NbnkPteB1eEU
+* pegamos todo y lo modificamos
+* recargamos la pagina
+* picoCTF{w34k_jwt_n0t_g00d_d72df65e}
 
 ## Notas:
 
