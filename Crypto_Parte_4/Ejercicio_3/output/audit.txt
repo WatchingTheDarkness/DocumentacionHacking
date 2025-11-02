@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Nov  1 16:59:42 2025
+Invocation: foremost -i atbash.jpg 
+Output directory: /mnt/c/Users/watch/Downloads/NotasHacking/DocumentacionHacking/Crypto_Parte_4/Ejercicio_3/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: atbash.jpg
+Start: Sat Nov  1 16:59:42 2025
+Length: 50 KB (51512 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      50 KB 	          0 	 
+Finish: Sat Nov  1 16:59:42 2025
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Nov  1 16:59:42 2025
