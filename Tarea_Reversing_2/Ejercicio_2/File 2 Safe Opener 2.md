@@ -7,7 +7,13 @@ I forgot the key to my safe but this file is supposed to help me with retrieving
 
 ## Solucion:
 * wget https://artifacts.picoctf.net/c/287/SafeOpener.class
+* http://www.javadecompilers.com
+* picoCTF{SAf3_0p3n3rr_y0u_solv3d_it_b427942b}
 
 ## Notas:
+* descargamos el archivo
+* entramos a la pagina para decompilar el archivo y ver el script
+* bandera
 
 ## Referencias:
+* http://www.javadecompilers.com
